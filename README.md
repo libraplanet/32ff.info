@@ -1,4 +1,4 @@
 # 32ff.info
 
-https://32ff.info を参照してください。
+https://libraplanet.github.io/32ff.info/ を参照してください。
 
